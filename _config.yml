@@ -74,9 +74,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is the thesis that I wrote as part of the master's degree in quantitative finance.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.[link](assets/thesis.pdf)
+        This master's thesis examines firm-level contemporaneous and lagged relationships between Tweet-based features (i.e., Twitter activity and sentiment polarity) and stock market characteristics (i.e., holding period return and trading volume) at daily frequency. Our findings support the existence of contemporaneous association between Twitter mood and returns (turnover), together with the relation of Tweet volume and returns (turnover). Furthermore, we established that investor agreement and Tweet volume could be of use in predicting abnormal trading volume on the following day. In contrast to previous closely related research, we found no indication of Twitter-based investor sentiment and interest being helpful in predicting returns, which was subsequently reflected in the underwhelming performance of the corresponding long-short portfolios. Nevertheless, we observed that aggregation of firm-level Twitter sentiment can be beneficial in forecasting the performance of ETFs, stock indices and portfolios.
+
+        You can download my thesis [here](assets/thesis.pdf) and the correpsonding presentation [here](assets/presentation.pdf). 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
