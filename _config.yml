@@ -113,8 +113,9 @@ content:
       - Film Photography 📸
 
       Here are some recent picture that I took
-      ![Trees](images/landscape-trees.jpg "Trees")
-      
+
+      {% include images/grid.html %}
+
 
 # Footer
 footer_show_references: true
