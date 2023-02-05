@@ -48,9 +48,15 @@ github_username:  alihru
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello, my name is Alissia. I am originally from Estonia, where I have spent the first 12 years of my life. 
+  Afterwards my family and I moved to Ireland. I went to school in the beatuiful coastal town of Sligo. 
+  Afterwards I decided that I want to study mathematics at NUI Galway. After graduating with a bachelor's in Mathematical Sciences
+  I moved to Vienna (Austria) to pursue a master's degree in quantitative finance. I was excited to apply the many mathematical and 
+  computational concepts that I have learned over the years to the fascinating world of finance. After attaining a master's degree 
+  in quant finance, I wanted to learn a little bit more about data science, machine learning and advanced statistical methods. I 
+  also saw how applicable and relevant these methods are becoming for the realm of quant finance. This motivated me to pursue a 
+  1-year master's degree in Data and Computational Science at the University College Dublin. I am currently enrolled in this programme and
+  I am looking for employment opportunities. Feel free to reach out! Have a good day :)
 
 content:
   - title: Projects # Title for the section
