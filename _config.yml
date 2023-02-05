@@ -64,12 +64,12 @@ content:
     content:
       - layout: top-middle
         title: Master Thesis 
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # link: github.com/sproogen
+        # # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -86,7 +86,7 @@ content:
           Twitter-based investor sentiment and interest being helpful in predicting returns, which was subsequently reflected 
           in the underwhelming performance of the corresponding long-short portfolios. Nevertheless, we observed that aggregation 
           of firm-level Twitter sentiment can be beneficial in forecasting the performance of ETFs, stock indices and portfolios.
-          
+
           You can download my thesis [here](assets/thesis.pdf) and the correpsonding presentation [here](assets/presentation.pdf). 
 
   - title: Experience # Title for the section
