@@ -106,14 +106,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in quantitative finance, data science and programming, some of my other interests and hobbies are:
+      - Hiking 🥾🏔️
+      - Music (Singing, Ukulele) 🎼
+      - Baking 🧁
+      - Film Photography 📸
 
-      Look at this cool image  
+      Here are some recent picture that I took
       ![Trees](images/landscape-trees.jpg "Trees")
+      
 
 # Footer
 footer_show_references: true
