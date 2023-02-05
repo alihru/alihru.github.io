@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Alissia Kirss
-title: Quantitative Finance Graduate/ Post-Graduate Student
+title: MSc Quantitative Finance Graduate/ MSc Data & Comp. Science Student
 email: alissiahrus@gmail.com
 # website: https://github.com/alihru
 
@@ -50,14 +50,14 @@ github_username:  alihru
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Alissia. I am originally from Estonia, where I have spent the first 12 years of my life. 
-  Afterwards my family and I moved to Ireland. I went to school in the beatuiful coastal town of Sligo. 
-  Afterwards I decided that I want to study mathematics at NUI Galway. After graduating with a bachelor's in Mathematical Sciences
-  I moved to Vienna (Austria) to pursue a master's degree in quantitative finance. I was excited to apply the many mathematical and 
+  Afterwards, my family and I moved to Ireland. I went to school in the beatuiful coastal town of Sligo. 
+  After my secondary school graduation I decided that I want to study mathematics at NUI Galway. After graduating with a bachelor's degree in Mathematical Science,
+  I moved to Vienna (Austria) to pursue a master's degree in Quantitative Finance. I was excited to apply the many mathematical and 
   computational concepts that I have learned over the years to the fascinating world of finance. After attaining a master's degree 
   in quant finance, I wanted to learn a little bit more about data science, machine learning and advanced statistical methods. I 
-  also saw how applicable and relevant these methods are becoming for the realm of quant finance. This motivated me to pursue a 
-  1-year master's degree in Data and Computational Science at the University College Dublin. I am currently enrolled in this programme and
-  I am looking for employment opportunities. Feel free to reach out! Have a good day :)
+  also saw how applicable and relevant these methods were becoming within the realm of quant finance. This motivated me to pursue a 
+  1-year master's degree in Data and Computational Science at University College Dublin. I am currently enrolled in this programme and
+  I am looking for employment opportunities. Feel free to reach out and have a good day! :)
 
 content:
   - title: Projects # Title for the section
@@ -115,15 +115,10 @@ content:
 
       Here are some recent pictures that I took:
 
-      |---------|---------|
       | ![Alt Text 1](images/about_me_pictures/photo1.jpg) | ![Alt Text 2](images/about_me_pictures/photo2.jpg) |
-      |---------|---------|
       | ![Alt Text 3](images/about_me_pictures/photo3.jpg) | ![Alt Text 4](images/about_me_pictures/photo4.jpg) |
-      |---------|---------|
       | ![Alt Text 5](images/about_me_pictures/photo5.jpg) | ![Alt Text 6](images/about_me_pictures/photo6.jpg) |
-      |---------|---------|
       | ![Alt Text 5](images/about_me_pictures/photo7.jpg) | ![Alt Text 6](images/about_me_pictures/photo8.jpg) |
-      |---------|---------|
       | ![Alt Text 5](images/about_me_pictures/photo9.jpg) | ![Alt Text 6](images/about_me_pictures/photo10.jpg) |
   
 
