@@ -56,14 +56,14 @@ about_content: | # this will include new lines to allow paragraphs
   in quant finance, I wanted to learn a little bit more about data science, machine learning and advanced statistical methods. I 
   also saw how applicable and relevant these methods are becoming for the realm of quant finance. This motivated me to pursue a 
   1-year master's degree in Data and Computational Science at the University College Dublin. I am currently enrolled in this programme and
-  I am looking for employment opportunities. Feel free to reach out! Have a good day :)
+  I am looking for employment opportunities. Feel free to reach out! Have a good day :) [link](/images/profile.jpg)
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Master Thesis 
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -76,7 +76,7 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
