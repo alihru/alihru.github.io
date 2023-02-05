@@ -52,18 +52,18 @@ about_content: | # this will include new lines to allow paragraphs
 
   Hello, my name is Alissia. 
 
-  * I am originally from Estonia, where I have spent the first 12 years of my life. 
-  * Afterwards, my family and I moved to Ireland. I went to school in the beatuiful coastal town of Sligo. 
-  * After my secondary school graduation I decided that I want to study mathematics at NUI Galway. 
+  * I am originally from Estonia, where I have spent the first 12 years of my life. 🏡
+  * Afterwards, my family and I moved to Ireland. I went to school in the beatuiful coastal town of Sligo. ☘️ 
+  * After my secondary school graduation I decided that I want to study mathematics at NUI Galway. 🧮👩‍🎓
   * After graduating with a bachelor's degree in Mathematical Science, I moved to Vienna (Austria) to pursue a master's degree in 
     Quantitative Finance. I was excited to apply the many mathematical and computational concepts that I have learned over the years
-    to the fascinating world of finance. 
+    to the fascinating world of finance. 📈🐂
   * After attaining a master's degree in quant finance, I wanted to learn a little bit more about data science, machine learning and 
     advanced statistical methods. I also saw how applicable and relevant these methods were becoming within the realm of quant finance. 
     This motivated me to pursue a 1-year master's degree in Data and Computational Science at University College Dublin. I am currently 
-    enrolled in this programme and I am looking for employment opportunities. 
+    enrolled in this programme and I am looking for employment opportunities. 👩‍💻
     
-  Feel free to reach out and have a good day! :)
+  Feel free to reach out and have a good day! 👋😊
 
 content:
   - title: Projects # Title for the section
@@ -94,7 +94,33 @@ content:
           in the underwhelming performance of the corresponding long-short portfolios. Nevertheless, we observed that aggregation 
           of firm-level Twitter sentiment can be beneficial in forecasting the performance of ETFs, stock indices and portfolios.
 
-          You can download my thesis [here](assets/thesis.pdf) and the correpsonding presentation [here](assets/presentation.pdf). 
+          You can download my thesis [here](assets/thesis.pdf) and the corresponding presentation [here](assets/presentation.pdf). 
+
+      - layout: top-middle
+        title: Industry Lab
+        # link: github.com/sproogen
+        # # link_text: Project Website
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This project focused on automated extraction of valuable information from annual financial reports. I 
+          completed this project in the course of my Quantitative Finance degree with Raiffeisen Research. 
+        description: | # this will include new lines to allow paragraphs
+          In recent years the European Single Electronic Standard (ESEF) has been introduced by the European Securities and Markets Authority (ESMA). 
+          It mandates that annual financial reports of issuers within scope must be prepared in XHTML format with XBRL tags, embedded using Inline XBRL technology and 
+          based on the ESEF taxonomy. We developed an R package in order to automate the process of financial data retrieval and reduce reliance 
+          on manual data extraction and external sources, such as Bloomberg and Refinitiv. Furthermore, we tested some simple trading strategies 
+          based on extracted financial ratios and conducted ESG sentiment analysis on retrieved textual data.
+
+          You can download the vignette for the corresponding R package [here](assets/rESEF_vignette.html).
+    
+
+
 
   - title: Experience and Education # Title for the section
     layout: list # Type of content section (list/text)
