@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   in quant finance, I wanted to learn a little bit more about data science, machine learning and advanced statistical methods. I 
   also saw how applicable and relevant these methods are becoming for the realm of quant finance. This motivated me to pursue a 
   1-year master's degree in Data and Computational Science at the University College Dublin. I am currently enrolled in this programme and
-  I am looking for employment opportunities. Feel free to reach out! Have a good day :) [link](/images/profile.jpg)
+  I am looking for employment opportunities. Feel free to reach out! Have a good day :wave:
 
 content:
   - title: Projects # Title for the section
@@ -64,12 +64,12 @@ content:
     content:
       - layout: top-middle
         title: Master Thesis 
-        link: github.com/sproogen
+        link: assets/thesis.pdf
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
