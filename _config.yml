@@ -64,8 +64,9 @@ content:
     content:
       - layout: top-middle
         title: Master Thesis 
+        file: assets/thesis.pdf
         # link: 
-        link_text: assets/thesis.pdf
+        # link_text: 
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
