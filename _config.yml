@@ -114,7 +114,7 @@ content:
 
       Here are some recent picture that I took
 
-      {% include images/grid.html %}
+      {% include images/grid_images.html %}
 
 
 # Footer
