@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   in quant finance, I wanted to learn a little bit more about data science, machine learning and advanced statistical methods. I 
   also saw how applicable and relevant these methods are becoming for the realm of quant finance. This motivated me to pursue a 
   1-year master's degree in Data and Computational Science at the University College Dublin. I am currently enrolled in this programme and
-  I am looking for employment opportunities. Feel free to reach out! Have a good day :wave:
+  I am looking for employment opportunities. Feel free to reach out! Have a good day 
 
 content:
   - title: Projects # Title for the section
@@ -64,18 +64,18 @@ content:
     content:
       - layout: top-middle
         title: Master Thesis 
-        file: assets/thesis.pdf
-        # link: 
-        # link_text: 
+        # link: github.com/sproogen
+        # # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
         #     url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This the master thesis that I wrote as part of my master's in quantitative finance. Download my thesis [here](assets/thesis.pdf).
+          If you are interested in the presentation, you can download it [here](assets/thesis.pdf)
         description: | # this will include new lines to allow paragraphs
           
 
