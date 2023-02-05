@@ -96,7 +96,7 @@ content:
 
           
           You can download my thesis [here](assets/thesis.pdf) and the corresponding presentation [here](assets/presentation.pdf). 
-          
+
           ---
 
       - layout: top-middle
@@ -159,7 +159,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
