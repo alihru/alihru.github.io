@@ -74,9 +74,10 @@ content:
         #   #   icon: fab fa-github
         #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This the master thesis that I wrote as part of my master's in quantitative finance. Download my thesis [here](assets/thesis.pdf).
-          If you are interested in the presentation, you can download it [here](assets/thesis.pdf)
+          This the master thesis that I wrote as part of my master's in quantitative finance. 
         description: | # this will include new lines to allow paragraphs
+        Download my thesis [here](assets/thesis.pdf).
+        If you are interested in the presentation, you can download it [here](assets/thesis.pdf)
           
 
   - title: Experience # Title for the section
