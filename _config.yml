@@ -112,7 +112,7 @@ content:
       - Baking 🧁
       - Film Photography 📸
 
-      Here are some recent picture that I took
+      Here are some recent picture that I took:
 
       {% include grid_images.html %}
     
