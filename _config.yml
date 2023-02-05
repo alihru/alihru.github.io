@@ -9,10 +9,10 @@ version: 2
 name: Alissia Kirss
 title: Quantitative Finance Graduate/ Post-Graduate Student
 email: alissiahrus@gmail.com
-website: https://github.com/alihru
+# website: https://github.com/alihru
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 # twitter_username: facespics
