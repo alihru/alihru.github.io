@@ -44,6 +44,7 @@ github_username:  alihru
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -112,10 +113,18 @@ content:
       - Baking 🧁
       - Film Photography 📸
 
-      Here are some recent picture that I took:
+      Here are some recent picture that I took
+      | Image 1 | Image 2 |
+      |---------|---------|
+      | ![Alt Text 1](images/profile.jpg) | ![Alt Text 2](images/profile.jpg) |
+      | Image 3 | Image 4 |
+      |---------|---------|
+      | ![Alt Text 3](images/profile.jpg) | ![Alt Text 4](images/profile.jpg) |
+      | Image 5 | Image 6 |
+      |---------|---------|
+      | ![Alt Text 5](images/profile.jpg) | ![Alt Text 6](images/profile.jpg) |
 
-      {% include grid_images.html %}
-    
+  
 
 
 # Footer
